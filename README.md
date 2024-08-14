@@ -1,4 +1,4 @@
-# O objetivo principal deste projeto é aplicar técnicas de clustering para identificar segmentos de clientes com comportamentos de compra similares. Com isso, é possível direcionar estratégias de marketing e personalizar ofertas de acordo com os perfis identificados.
+O objetivo principal deste projeto é aplicar técnicas de clustering para identificar segmentos de clientes com comportamentos de compra similares. Com isso, é possível direcionar estratégias de marketing e personalizar ofertas de acordo com os perfis identificados.
 
 ## Dataset
 
